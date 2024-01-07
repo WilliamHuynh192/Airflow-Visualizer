@@ -32,5 +32,4 @@
 *.app
 
 # Build and setting directory
-dir_to_ignore/Build/*
-dir_to_ignore/.vscode/*
+.vscode/
